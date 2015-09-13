@@ -2,7 +2,7 @@
 This project is aimed for xiaohe-pinyin which is a Chinese input method. I suppose this project only could be helpful to you if you can read Chinese.
 
 ## 如果你用没越狱的iPhone，用小鹤双拼，用百度拼音输入法：
-如果你想用鹤形，那么你需要把鹤形的自定义短语挂接到手机百度输入法中  
+如果你想用鹤形，那么你需要把鹤形的自定义短语挂接到手机百度输入法中。
 截至目前，我在Mac、PC版本的百度输入法上，都没能把自定义短语通过百度账号同步到手机百度输入法中。2015.09.13  
 后来发现百度手机输入法可以把自定义短语何用户词存在iCloud上面，所以可以直接改。  
 ### 文件说明
