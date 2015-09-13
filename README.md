@@ -20,6 +20,6 @@ cat ~/Downloads/xiaoheDoublePinyinDict-master/icloudCache/Ue3.top5k >> \
 ```
 * 然后等一两分钟，这两个文件应该就同步到iCloud上了  
 * 最后在手机上打开iCloud云同步选项  
-试一试aaod是不是可以打出「腌」在第一个候选位置。
+试一试aaod是不是可以打出「腌」在第一个候选位置。  
 ### 如果你用Windows
 如果Windows也可以配置iCloud的话，照Mac的道理做一遍应该也可以，没试过
